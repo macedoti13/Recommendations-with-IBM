@@ -7,7 +7,6 @@
 3. [File Descriptions](#files)
 4. [Used Frameworks](#frameworks)
 5. [Acknowledgements](#acknowledgements)
-6. [Instructions](#instructions)
 
 ## Project Overview <a name="overview"><a/>
 **The project was composed of building several recommendation engines with various techniques in order to recommend data science related articles in IBM Watson Studio Platform. An organized notebook was provided with instructions and checkpoints and I completed the code with my own knowledge. There was an extra (and optional) challenge to build a content based collaborative filtering recommender, which I completed using my NLP skills.**
